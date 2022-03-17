@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "commit pertama"
+git add remote origin https://github.com/RiperStrong/RiperStrong
+git phus origin master
