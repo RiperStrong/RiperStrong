@@ -1,5 +1,5 @@
 git init
 git add .
 git commit -m "commit pertama"
-git add remote origin https://github.com/RiperStrong/RiperStrong
+git add remote origin https://github.com/{ username }/{ nam-repo }
 git phus origin master
